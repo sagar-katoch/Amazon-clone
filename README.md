@@ -1,6 +1,6 @@
 🛍️ Amazon Clone - Frontend Project
 A front-end replica of Amazon’s homepage created using HTML and CSS. This project focuses on layout structuring, UI replication, and responsive design techniques to mimic the look and feel of Amazon's official landing page.
-
+![alt text](image.png)
 🔍 Features
 ✅ Fully responsive navigation bar
 
@@ -32,7 +32,7 @@ amazon-clone/
 │   ├── amazon_logo.png
 │   └── hero_image.jpg
 └── README.md
-📸 Screenshots
+![alt text](image-1.png)
 Navigation Bar	Hero Section	Product Grid	Footer
 
 📌 You can add actual screenshots or remove this section if not applicable.
